@@ -6,7 +6,7 @@ last update: 16/01/2021- Submission version
 [Demonstration video](https://www.youtube.com/watch?v=YVD9625Q05o&ab_channel=danneytur)
 
 ## Image of the project
-
+![project](https://user-images.githubusercontent.com/120782729/211019740-ab190945-ef44-4c8a-a48c-fdeee78c1a0c.jpg)
 
 ## Description
 
