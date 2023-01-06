@@ -1,4 +1,4 @@
-# Non-contact-Temperature-Meter
+# Non contact Temperature Meter
 Final project in Micro Controllers course
 
 last update: 16/01/2021- Submission version
@@ -6,7 +6,7 @@ last update: 16/01/2021- Submission version
 [Demonstration video](https://www.youtube.com/watch?v=YVD9625Q05o&ab_channel=danneytur)
 
 ## Image of the project
-![project](https://user-images.githubusercontent.com/120782729/210999221-b7bbcf57-38e2-4c5f-a8d8-75a4addcedea.jpg)
+![project](https://user-images.githubusercontent.com/120782729/211019740-ab190945-ef44-4c8a-a48c-fdeee78c1a0c.jpg)
 
 ## Description
 
@@ -18,10 +18,10 @@ This project is a Non-contact Temperature Meter, using ARM EFM32 micro-controlle
 * Displaying measured temperature in Celsius degree on LCD display.
 * Resolution of 0.14 °C.
 * Buzzer notifying on end of measurement.
-* Normal body temperature range- 35 °C- 37 °C.
+* Normal body temperature range: 35 °C- 37 °C.
 
 ## Block diagram 
-![block diagram](https://user-images.githubusercontent.com/120782729/211018086-0d849156-3521-4311-a708-5960e6af7eda.png)
+![block diagram](https://user-images.githubusercontent.com/120782729/211019240-dfe6f4d1-0ee1-423a-a272-22c359211770.png)
 
 ## Operating Principle
 ![operating_principle](https://user-images.githubusercontent.com/120782729/211018338-77fdf310-eeb4-4c24-a634-a73d125a040b.png)
