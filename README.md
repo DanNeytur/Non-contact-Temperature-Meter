@@ -21,7 +21,8 @@ This project is a Non-contact Temperature Meter, using ARM EFM32 micro-controlle
 * Normal body temperature range: 35 °C- 37 °C.
 
 ## Block diagram 
-![block diagram](https://user-images.githubusercontent.com/120782729/211019240-dfe6f4d1-0ee1-423a-a272-22c359211770.png)
+![block diagram](https://user-images.githubusercontent.com/120782729/211020653-c3a63cc2-86da-4851-8a71-dd24f51a8e0f.png)
+
 
 ## Operating Principle
 ![operating_principle](https://user-images.githubusercontent.com/120782729/211018338-77fdf310-eeb4-4c24-a634-a73d125a040b.png)
