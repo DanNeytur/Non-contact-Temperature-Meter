@@ -12,7 +12,7 @@ last update: 16/01/2021- Submission version
 
 This project is a Non-contact Temperature Meter, using ARM EFM32 micro-controller and Temperature sensor MLX90614.
 
-### Feautures:
+### Features:
 
 * Display normality of measured body temperature on LCD display and LED.
 * Displaying measured temperature in Celsius degree on LCD display.
