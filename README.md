@@ -18,7 +18,7 @@ This project is a Non-contact Temperature Meter, using ARM EFM32 micro-controlle
 * Displaying measured temperature in Celsius degree on LCD display.
 * Resolution of 0.14 °C.
 * Buzzer notifying on end of measurement.
-* Normal body temperature range- 35 °C- 37 °C.
+* Normal body temperature range: 35 °C- 37 °C.
 
 ## Block diagram 
 ![block diagram](https://user-images.githubusercontent.com/120782729/211019240-dfe6f4d1-0ee1-423a-a272-22c359211770.png)
